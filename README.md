@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hmangaihropuia
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Masters of Computer Application 
+- 🌱 I’m currently studying Masters of Computer Application 
 - 📫 How to reach me hchhakchhuak2@gmail.com
 
 <!---
